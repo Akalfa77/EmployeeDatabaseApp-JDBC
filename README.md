@@ -65,7 +65,7 @@ con.close();
 
 ## Expected Outcome
 
-- Establishes a con## ✅ Expected Outcome
+- Establishes a con## Expected Outcome
 
 - Establishes a connection with the MySQL database.  
 - Performs CRUD operations seamlessly.  
@@ -74,7 +74,7 @@ con.close();
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates a **complete end-to-end JDBC implementation**, following best practices in connection handling and modular design.  
 It’s an ideal foundation for understanding **real-world Java–Database integration** and serves as a strong portfolio project for internships and job applications.
@@ -89,3 +89,5 @@ nection with the MySQL database.
 
 This project demonstrates a **complete end-to-end JDBC implementation**, following best practices in connection handling and modular design.  
 It’s an ideal foundation for understanding **real-world Java–Database integration** and serves as a strong portfolio project for internships and job applications.
+
+> **Note:** Please update the `config/db.properties` file with **your own MySQL username and password** before running the project.
