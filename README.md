@@ -65,8 +65,6 @@ con.close();
 
 ## Expected Outcome
 
-- Establishes a con## Expected Outcome
-
 - Establishes a connection with the MySQL database.  
 - Performs CRUD operations seamlessly.  
 - Displays all records from the `employees` table.  
